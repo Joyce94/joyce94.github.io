@@ -3,7 +3,7 @@ title: Songyang Blog       # 博客网站标题
 SEOTitle: 宋阳的博客 | Songyang Blog
 header-img: img/post-bg-desk.jpg
 email: 1920789426@qq.com
-description: "The more self-discipline, the more freedom."
+description: "Goals determine what you going to be!"
 # keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://Joyce94.github.io"          # your host, for absolute URL
 # baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ url: "http://Joyce94.github.io"          # your host, for absolute URL
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "The more self-discipline, the more freedom."
 sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
