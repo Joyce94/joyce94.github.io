@@ -89,6 +89,6 @@ service-worker: true
 friends: [
     {
         title: "github",
-        href: "http://Joyce94.github.com"
+        href: "https://github.com/Joyce94"
     }
 ]
