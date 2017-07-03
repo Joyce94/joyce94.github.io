@@ -12,4 +12,4 @@ tags:
     - Git
 ---
 
-# 对6月最后一周进行总结，撰写了总结报告。具体内容查看[博客园](http://www.cnblogs.com/Joyce-song94/p/7111167.html).
+对6月最后一周进行总结，撰写了总结报告。具体内容查看[博客园](http://www.cnblogs.com/Joyce-song94/p/7111167.html).
